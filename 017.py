@@ -13,4 +13,4 @@ if a>b:
     result = (a*b)//gcd(a,b)
 else:
     result = (a*b)//gcd(b,a)
-print(result)
+print(result,end='')
