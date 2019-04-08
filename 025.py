@@ -9,4 +9,4 @@ for i in range(0, n-1):
     if flag==0:
         break
 median = n//2
-print(arr[median])
+print(arr[median], end='')
