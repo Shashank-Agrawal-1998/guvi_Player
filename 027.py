@@ -6,4 +6,4 @@ for i in range(len(s)):
 if numeric==0:
     print('yes')
 else:
-    print('no')
+    print('no', end='')
