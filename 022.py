@@ -4,4 +4,4 @@ max = arr[0]
 for i in range(n):
     if arr[i]>max:
         max = arr[i]
-print(max)
+print(max,end='')
